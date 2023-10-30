@@ -9,8 +9,9 @@ import java.io.IOException
 
 fun main() {
     val client = OkHttpClient()
-    val fakeStoreAPI = "http://127.0.0.1:8080"  // Conexión a la API
-
+    //val fakeStoreAPI = "http://127.0.0.1:8080"  // Conexión a la API
+    val fakeStoreAPI = "http://api-fake-store:8080" // Al utilizar docker tendremos que hacer una red y conectarnos al name del servicio
+    
     // Ejemplo de solicitud GET para obtener datos
     val getRequest = Request.Builder()
         .url("$fakeStoreAPI/product")
@@ -63,7 +64,7 @@ fun main() {
         })*/
 }
 
-fun main2() {
+fun mainAsService() {
     embeddedServer(Netty, port = 8080, host = "127.0.0.2", module = Application::module)
         .start(wait = true)
 }

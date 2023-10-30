@@ -1,0 +1,30 @@
+# Deben estar las imagenes subidas e dockerhub
+# Si queremos tener la app en local pues: ./app y llamamos a las imagenes para hacer contenedores:
+#   todo-database:
+    # image: mongo:6
+    #volumes: 
+    #  - database:/data/db
+    #ports:
+     # - 27017:27017
+version: '1'
+services:
+  app-wewiza:
+    image: sbytmacke/wewiza:latest
+    # Como solamente quiero recibir datos de la api y no enviaremos nada no nos hace falta puerto
+    networks:
+      - my-network
+    ports:
+      - "8081:80"
+    # Para que arranque primero la API
+    depends_on:
+      - api-fake-store
+  api-fake-store:
+    image: sbytmacke/fake-store:latest
+    networks:
+      - my-network
+    ports:
+      - "8080:8080"
+
+networks:
+  my-network:
+    driver: bridge
