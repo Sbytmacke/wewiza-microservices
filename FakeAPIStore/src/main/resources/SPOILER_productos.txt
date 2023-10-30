@@ -1,0 +1,148 @@
+ID: aeb2c8e4-29d2-4311-8ae7-653c71b719e9
+SecondaryID: P12345
+Nombre: HDMI Switch Sony
+Precio: 19.99
+Categoría: Electrónica
+Descripción: Un producto de alta calidad para entusiastas de la tecnología.
+Imagen: imagen1.jpg
+URL: http://ejemplo.com/productoA
+
+
+ID: 7cfb4d67-9c1a-4a38-94b0-86fe327f7a7e
+SecondaryID: P67890
+Nombre: Camisa Azul RalphLaurent
+Precio: 39.99
+Categoría: Ropa
+Descripción: Ropa elegante y cómoda para todas las ocasiones.
+Imagen: imagen2.jpg
+URL: http://ejemplo.com/productoB
+
+
+ID: 6e4c89fc-7c6e-4f08-8342-87e36f3c3e16
+SecondaryID: P54321
+Nombre: Alfombra Rollie
+Precio: 9.99
+Categoría: Hogar
+Descripción: Accesorios para el hogar que hacen la vida más fácil.
+Imagen: imagen3.jpg
+URL: http://ejemplo.com/productoC
+
+
+ID: 71b50f5a-59f0-471a-9ebc-3e8b6a7f0a04
+SecondaryID: P98765
+Nombre: Coche teledirigido Razer
+Precio: 29.99
+Categoría: Juguetes
+Descripción: Divertido juguete para niños y niñas.
+Imagen: imagen4.jpg
+URL: http://ejemplo.com/productoD
+
+
+ID: fdecc8a7-6f22-4d07-8c20-7546fca7e2aa
+SecondaryID: P24680
+Nombre: Pendrive 32GB KingStone
+Precio: 14.99
+Categoría: Electrónica
+Descripción: Un dispositivo esencial para la vida moderna.
+Imagen: imagen5.jpg
+URL: http://ejemplo.com/productoE
+
+
+ID: 1d1c4a7e-803f-4f20-8c55-2a046b52e2bc
+SecondaryID: P13579
+Nombre: Balenciaga Polo
+Precio: 49.99
+Categoría: Ropa
+Descripción: Ropa de alta gama para ocasiones especiales.
+Imagen: imagen6.jpg
+URL: http://ejemplo.com/productoF
+
+
+ID: 3b6549b6-ef6a-4d6a-9e5d-573ac2f13543
+SecondaryID: P15984
+Nombre: Aspiradora BOSCH
+Precio: 12.99
+Categoría: Hogar
+Descripción: Herramientas útiles para el hogar.
+Imagen: imagen7.jpg
+URL: http://ejemplo.com/productoG
+
+
+ID: 8a937fc8-2cda-48a1-8e77-9a7d09be49df
+SecondaryID: P65521
+Nombre: Peluche Oso IKEA
+Precio: 7.99
+Categoría: Juguetes
+Descripción: Juguete educativo para niños en edad preescolar.
+Imagen: imagen8.jpg
+URL: http://ejemplo.com/productoH
+
+
+ID: 0e6b1a8d-c0c2-4f34-8d8a-3e9f6cfd8e7e
+SecondaryID: P36589
+Nombre: Mando PS5 Sony
+Precio: 59.99
+Categoría: Electrónica
+Descripción: Tecnología de vanguardia para entusiastas.
+Imagen: imagen9.jpg
+URL: http://ejemplo.com/productoI
+
+
+ID: 5c4d89ae-91f7-4a58-8c92-7e4b6f3c3e2d
+SecondaryID: P40023
+Nombre: Pantolon de algodon H&M
+Precio: 24.99
+Categoría: Ropa
+Descripción: Ropa casual y cómoda para el día a día.
+Imagen: imagen10.jpg
+URL: http://ejemplo.com/productoJ
+
+
+ID: d1b5cf6e-73f6-4b0a-8a5f-1e9e4d6b2a9c
+SecondaryID: P57894
+Nombre: Fregona retractil BOSCH
+Precio: 11.99
+Categoría: Hogar
+Descripción: Productos esenciales para el hogar.
+Imagen: imagen11.jpg
+URL: http://ejemplo.com/productoK
+
+
+ID: 2b4d3a1c-7e6c-4f80-8c75-6a1b45c1e2fa
+SecondaryID: P63546
+Nombre: Ray McQueen HotWheels 
+Precio: 19.99
+Categoría: Juguetes
+Descripción: Juguetes divertidos para todas las edades.
+Imagen: imagen12.jpg
+URL: http://ejemplo.com/productoL
+
+
+ID: e9bc8d8e-63a5-4d30-8c50-1a0b3c7d6e7b
+SecondaryID: P74897
+Nombre: Raton inalambrico Logitech Hero
+Precio: 34.99
+Categoría: Electrónica
+Descripción: Dispositivo versátil para tu estilo de vida digital.
+Imagen: imagen13.jpg
+URL: http://ejemplo.com/productoM
+
+
+ID: c8d7a4e1-6c8e-4f8a-8d8c-4a9d0a7d8c4e
+SecondaryID: P88964
+Nombre: Calcetines de lana GUCCI
+Precio: 16.99
+Categoría: Ropa
+Descripción: Ropa a la moda para jóvenes y adultos.
+Imagen: imagen14.jpg
+URL: http://ejemplo.com/productoN
+
+
+ID: 4e7b9c3f-7f6a-4d6c-9e5e-6c7c2a1f8b5c
+SecondaryID: P54896
+Nombre: Doble elefante telepata de guerra LEGO
+Precio: 8.99
+Categoría: Juguetes
+Descripción: Productos para mantener tu hogar ordenado.
+Imagen: imagen15.jpg
+URL: http://ejemplo.com/productoO
